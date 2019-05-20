@@ -1,0 +1,9 @@
+{
+"_generated":"Writed by Dessasin",
+"description": "Hide appmenu setting on top-bar gnome shell",
+"name":"Hide App Menu",
+"shell-version":["3.32"],
+"url":"https://gitlab.com/dessasin/hide-appmenu",
+"uuid":"",
+"version":1.0
+}
